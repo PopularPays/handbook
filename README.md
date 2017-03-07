@@ -2,6 +2,8 @@
 
 At Popular Pays, we’re working to build a company worth sharing. We decided to use Clef's open-sourced template for a company handbook so that we can share our own thoughts with the world on how we want to run our company. 
 
+Note that most of the documents below are still the Clef originals, but I've marked which ones we've adapted to our own use. 
+
 Feedback and suggestions are welcome; this is a work in progress that we hope will get better with more time and more contributors.
 
 If these thoughts on how to run a company sound like a place where you want to work, check out our jobs postings on our [AngeList Page](https://angel.co/popular-pays).
@@ -30,7 +32,7 @@ If these thoughts on how to run a company sound like a place where you want to w
 * [Acknowledgement of Receipt](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
 * [Clef Offer Letter](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
+* [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) (Adapted to Popular Pays) 
 * [Handbook Introduction](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
