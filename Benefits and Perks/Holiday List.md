@@ -1,21 +1,14 @@
-# Clef Observed Holiday List
+# Observed Holiday List
+Teammates at Popular Pays are free to work from home as they wish (see [Working Remotely](https://github.com/clef/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)) but there are a few days where the office will be closed and not providing lunch service:
 
 <table>
   <tr>
+    <td>New Year’s Eve</td>
+    <td>December 31</td>
+  </tr>
+<tr>
     <td>New Year’s Day</td>
     <td>January 1</td>
-  </tr>
-  <tr>
-    <td>Birthday of Martin Luther King, Jr. </td>
-    <td>January 19</td>
-  </tr>
-  <tr>
-    <td>President’s Day</td>
-    <td>February 16</td>
-  </tr>
-  <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
   </tr>
   <tr>
     <td>Memorial Day</td>
@@ -28,14 +21,6 @@
   <tr>
     <td>Labor Day</td>
     <td>First Monday in September</td>
-  </tr>
-  <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
-  </tr>
-  <tr>
-    <td>Veterans Day</td>
-    <td>November 11</td>
   </tr>
   <tr>
     <td>Thanksgiving Day and Friday</td>
