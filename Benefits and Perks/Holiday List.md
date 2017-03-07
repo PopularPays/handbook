@@ -1,5 +1,5 @@
 # Observed Holiday List
-Teammates at Popular Pays are free to work from home as they wish (see [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)) but there are a few days where the office will be closed and not providing lunch service:
+Teammates at Popular Pays are free to work from home as they wish (see [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)) or take personal days as they see fit, but there are a few days where the office will be closed and not providing lunch service:
 
 <table>
   <tr>
