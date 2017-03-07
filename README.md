@@ -53,12 +53,12 @@ If these thoughts on how to run a company sound like a place where you want to w
 * [Sharing Files](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
 ## Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
-* [Vacation and Sick Leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
-* [Holiday List](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
-* [Referral Bonuses](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
-* [Continuing Education](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+Each doc in this section has been adopted to Popular Pays. 
+
+* [Health Care and Insurance](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md) 
+* [Vacation and Sick Leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md) 
+* [Holiday List](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md) 
+* [Referral Bonuses](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md) 
 * [Sabbatical](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 * [New Parent Leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 * [Other Protected Absences](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
-
