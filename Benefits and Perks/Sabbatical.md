@@ -1,6 +1,6 @@
 # Sabbatical
 
-After every 5 years of working at Popular Pays, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.
+After every 5 years of working at Popular Pays, employees are encouraged to take two months (8 contiguous weeks) paid sabbatical.
 
 During this sabbatical, they should work on passion projects -- something outside the scope of their normal work that is interesting and exciting to them. 
 
