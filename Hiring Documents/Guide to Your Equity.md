@@ -75,11 +75,11 @@ When Popular Pays raises outside capital, investors will buy a form of Preferred
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount. The discount rewards the initial investors for investing in the company early. We have traditionally given this discount to investors in the form of a Valuation Cap, which represents the maximum valuation that the first investors will have to pay for the stock. If a valuation cap is set at $15m, for example, and the priced round occurs at a $20m pre-money valuation, the early investors get to convert at that lower $15m price.
 
-Popular Pays has raised a total of $3,746,450 to date:
+Popular Pays has raised a total of $3,846,450 to date:
 
 * $775,000 via Convertible Notes before YC in 2013-14
 * $2,081,450 via [SAFEs](www.ycombinator.com/documents/#safe) after Y Combinator in April 2015
-* $890,000 via SAFEs in 2016 leading up to our Series A
+* $990,000 via SAFEs in 2016 leading up to our Series A
 
 Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, the next time you raise money, that debt converts to equity at a discount or a cap. The cap is a maximum valuation that the first investors will have to pay for the stock. 
 
