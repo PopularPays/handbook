@@ -1,9 +1,9 @@
-# Two-Year Tickets Anywhere
+# Two-Year, Two Weeks
 
-After 2 years of working at Pop Pays, we gift our teammates two plane tickets anywhere in the world. To make it fair for all, we do this in the way of granting $1,750 towards any travel expense, so if you prefer to take your family to a local spot, you can do that as well. 
+After 2 years of working at Pop Pays, we got in the habit of gifting our teammates two plane tickets anywhere in the world as a celebration for their hard work and an encouragement to take some time off to explore. 
 
-The main goal is to celebrate our teammates, to give them a chance to explore the world at large, and to bring back new perspectives to the team when they return. The world is only getting more global. 
+To make it fair for all, we now do this in the way of granting two weeks of paid leave and $1,750 towards any experience, so whether you prefer to visit a new continent, take your family to a local spot, try a cooking class or yoga retreat– or just have a "staycation"- this is time for our teammates to relax and explore. 
 
-Please give your manager at least 1 month of notice before taking your trip, and submit your receipts for the travel via Expensify. 
+Hopefully we all come back from our time off with new perspectives; we encourage you to take some photos and share your experience with us.
 
-Your $1,750 travel retainer can cover things like hotels and food, and if there's a balance remaining when you get back, you will be bonused out 1/2 of the remainder (with the company keeping the other 1/2). 
+Please give your manager at least 1 month of notice before taking your trip, and try to plan it around what works best for your individual team. 
