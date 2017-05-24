@@ -12,13 +12,13 @@ The following Core Values point us back to the mission we’re working towards, 
 
 # Core Values
  
-## Our Mission Is Worth It:
+## Our Mission Is Worth It
 Joining the Pop Pays team means you believe in our mission, and you share our passion for it. Joining our team means that you’re here not just because startups are a good place to get a jump start on a career or a good investment. No matter how good someone is on paper, if a potential teammate can’t align with our mission, we can’t bring them on at the expense of our culture.
 
 Joining our team means that you’re ready to focus on one goal, and ignore the distractions that might pull your focus. Believing our Mission is worth it means you’re committed to building something worth sharing. 
 
  
-## The Journey Is Worth It:
+## The Journey Is Worth It
 No matter how successful we feel, our work is never done. Prioritizing the journey means we want to continually improve. There’s no growth without a journey. Since we’re moving forward together, enjoy the process and the teammates on the journey with you. Life is short, and you shouldn’t be in a career that isn’t worth it to you. Have fun!
 
 Overcoming obstacles is part of the journey, so we tackle issues together as a team. Instead of starting with assumptions or possible solutions, we have to start with a problem and work from there. Believing in our journey means we believe in iteration as part of the process. We can’t ship something worth sharing before trying a few things that don’t work. 
