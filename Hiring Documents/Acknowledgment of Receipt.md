@@ -1,11 +1,10 @@
 # Acknowledgement of Receipt of Employee Handbook
 
-I acknowledge I have received a copy of the Clef Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.
+I acknowledge I have received a copy of the Popular Pays Employee Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask the CEO or my direct manager for clarification of any provisions in the Employee Handbook.
 
-I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Clef may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
+I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Popular Pays may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
 
-
-I understand and agree that my employment with Clef is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  This is the entire agreement between me and Clef on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
+I understand and agree that my employment with Clef is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  Outside of my Employment Agreement, I acknowledge that this is the entire agreement between me and Popular Pays on the subject of Employment Policies; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO. Where the Employment Agreement and this document misalign, the Employment Agreement will supersede this Handbook.
 
 
 I acknowledge that it is my responsibility to read and become familiar with the contents of the handbook.
@@ -28,7 +27,7 @@ Signature: ________________________
 
 
 ## Contents of the Clef Employee Handbook
-This handbook is hosted online at [github.com/PopularPays/handbook](https://github.com/handbook), along with several other policies. The *Clef Employee Handbook* consists of only the policies listed below.
+This handbook is hosted online at [github.com/PopularPays/handbook](https://github.com/handbook), along with several other policies. The *Popular Pays Employee Handbook* consists of only the policies listed below.
 
 ### Introduction
 * [Handbook Introduction](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
@@ -38,11 +37,6 @@ This handbook is hosted online at [github.com/PopularPays/handbook](https://gith
 ### Employment Policies
 * [Equal Opportunity Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Salary and Equity Compensation](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
-* [Code of Conduct in the Community](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
-* [Complaint Policy](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
-* [Drug and Alcohol Policy](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
 * [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ### Benefits and Perks
