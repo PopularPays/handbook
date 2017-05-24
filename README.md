@@ -2,7 +2,7 @@
 
 At Popular Pays, we’re working to build a company worth sharing. We decided to use Clef's open-sourced template for a company handbook so that we can share our own thoughts with the world on how we want to run our company. 
 
-Note that most of the documents below are still the Clef originals, but I've marked which ones we've adapted to our own use. 
+**Note that most of the documents below are still the Clef originals, but I've marked which ones we've adapted to our own use.**
 
 Feedback and suggestions are welcome; this is a work in progress that we hope will get better with more time and more contributors.
 
