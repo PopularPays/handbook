@@ -2,13 +2,13 @@
 
 ## Scope
 
-This policy is written in the context of our current company setup, which is that every employee works in the same office for the most of the work week. Specifically, this document addresses working from home on a regular basis and/or working remotely for up to one week out of any given month. It does not address:
+This policy is written in the context of our current company setup, which is that most employees work in the same office for the most of the work week. Specifically, this document addresses working from home on a regular basis and/or working remotely for up to one week out of any given month. It does not address:
 
 * A fully remote employee
 * An employee who works from the office 1wk/month or is remote for the majority of their time
 * A team that is distributed
 
-If and when the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of Clef working from home or from somewhere irregular. 
+As the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of Pop Pays working from home or from somewhere irregular. 
 
 ## Approach
 
@@ -30,10 +30,9 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 ## Policies
 
-The majority of policies that support remote work in Clef apply to everyone at Clef, not just remote workers. The primary documents that outline these policies are:
+The majority of policies that support remote work in Pop Pays apply to everyone at Pop Pays, not just remote workers. The primary documents that outline these policies are:
 
 * [Effective Meetings](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
-* [Communication and Transparency](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 
 ### Extended Remote Work
 
@@ -53,7 +52,7 @@ You should give everyone on the team as much notice as possible, but at least 7 
 
 Always take the following steps to let the team know:
 
-* Post in #office with a @channel tag so everyone sees the notification
+* Post in #office so everyone sees the notification
 * Communicate verbally with the people you work closest with
 * Update your calendar to mark which days you are working remotely
 
@@ -68,23 +67,20 @@ A non-exhaustive list of things to ensure are in order are:
 * You will have a quiet, private place to take phone calls and meetings
 * You will be able to work a full workday every day you're working remotely
 
-#### Co-working Space Subsidies
-
-Working remotely can add a financial burden on an individual. At the same time, it is also a privilege. While Clef is on its seed extension, Clef will subsidize co-working space costs for up to $10/day. Once Clef reaches profitability or raises its next major fundraising round, we will revisit this subsidy.
 
 ### Manager Retrospectives
 
 #### Regular 1:1s
 
-If an employee works remotely, they should make the topic of their remote work a regular part of weekly 1:1s. 
+If an employee works remotely, they should make the topic of their remote work a regular part of monthly 1:1s. 
 
-This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of Clef that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
+This is a time where employees can voice concerns about constraints that are limiting their ability to work effectively: this could be concerns about structures inside of Pop Pays that limit their flexibility, concerns about how the way other teammates work, or anything else that might affect how they work. It's also a time where managers should give concrete feedback on whether an employee is upholding their responsibilities when they are working remotely.
 
-#### Dedicated Retrospectives
+#### Dedicated Retros
 
-Before an employee works remotely for an extended period of time (defined below),  they should schedule a retrospective with their manager for when they get back.
+Before an employee works remotely for an extended period of time (defined below),  they should schedule a retro with their manager for when they get back.
 
-This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at Clef.
+This meeting is essential for debriefing what did and didn't work in the time they were gone and ensuring lessons learned are rolled back into the way we work at Pop Pays.
 
 #### Loss of the privilege
 
