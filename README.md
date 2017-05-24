@@ -2,8 +2,6 @@
 
 At Popular Pays, we’re working to build a company worth sharing. We decided to use Clef's open-sourced template for a company handbook so that we can share our own thoughts with the world on how we want to run our company. 
 
-**Note that most of the documents below are still the Clef originals, but I've marked which ones we've adapted to our own use.**
-
 Feedback and suggestions are welcome; this is a work in progress that we hope will get better with more time and more contributors.
 
 If these thoughts on how to run a company sound like a place where you want to work, check out our jobs postings on our [AngeList Page](https://angel.co/popular-pays).
@@ -24,31 +22,15 @@ If these thoughts on how to run a company sound like a place where you want to w
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Clef Offer Letter](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
-* [Employee Proprietary Information and Inventions Agreement](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Guide to Your Equity](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) (Adapted to Popular Pays) 
-* [Handbook Introduction](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
-
-## Onboarding Documents
-* [Welcome to Clef](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
-* [Direct Reports](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
-* [Communication and Transparency](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
-* [Objectives and Key Results](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
-* [One on Ones](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
-* [Product Manifesto](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
-* [Effective Meetings](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+* [Popular Pays Offer Letter](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Offer%20Letter.md)
+* [Confidential Information and Invention Assignment Agreement](https://drive.google.com/a/popularpays.com/file/d/0B1pZ_Vm_hATsR1lSbFVjQkNkUzA/view?usp=sharing)
+* [Guide to Your Equity](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) 
 
 ## Operations Documents
-* [Sourcing Candidates](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
-* [Budgeting](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Budgeting.md)
-* [Hack Weeks](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
+* [Effective Meetings](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Onboarding](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Onboarding.md)
-* [Sharing Files](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
 ## Benefits and Perks
-**Each doc in this section has been adapted to Popular Pays.**
-
 * [Health Care and Insurance](https://github.com/PopularPays/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md) 
 * [Vacation and Sick Leave](https://github.com/PopularPays/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md) 
 * [Holiday List](https://github.com/PopularPays/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md) 
