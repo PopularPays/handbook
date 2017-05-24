@@ -1,8 +1,8 @@
 # Guide to Your Equity
 
-There are currently **11,233,967** shares of Popular Pays stock outstanding.
+There are currently **21,314,052** shares of Popular Pays stock outstanding.
 
-Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0B1pZ_Vm_hATsbXM0T1h2bldFbjg). Any employee with questions about the report, our share price, or valuation should ask Corbett.
+Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/a/popularpays.com/file/d/0B1pZ_Vm_hATsVmNNTFowSVRBaTQ/view?usp=sharing). Any employee with questions about the report, our share price, or valuation should ask Corbett.
 
 **This guide is meant to help you understand the piece of Popular Pays that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
@@ -75,12 +75,17 @@ When Popular Pays raises outside capital, investors will buy a form of Preferred
 
 A convertible note is a popular way for startups to raise money because it lets us delay picking a valuation for a company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount. The discount rewards the initial investors for investing in the company early. We have traditionally given this discount to investors in the form of a Valuation Cap, which represents the maximum valuation that the first investors will have to pay for the stock. If a valuation cap is set at $15m, for example, and the priced round occurs at a $20m pre-money valuation, the early investors get to convert at that lower $15m price.
 
-Popular Pays has raised a total of $3,846,450 to date:
+Popular Pays has raised $6,016,450 to date:
 
-* $775,000 via Convertible Notes before YC in 2013-14
-* $2,081,450 via [SAFEs](www.ycombinator.com/documents/#safe) after Y Combinator in April 2015
-* $990,000 via SAFEs in 2016 leading up to our Series A
+* $100,000 as Common Stock (units in our LLC before the C Corp conversion) in August 2013.
+* $675,000 as Convertible Notes raised in 2014 that converted to Preferred Stock upon our C Corp transition on 12/19/15.
+* $2,020,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2015.
+* $81,450 from an AngeList syndicate via a YC SAFE in April 2015.
+* $990,000 via SAFE notes in Q4'16/Q1'17
+* $2,150,000.00 as Preferred Stock in our Series A raise in March 2017.
 
 Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, the next time you raise money, that debt converts to equity at a discount or a cap. The cap is a maximum valuation that the first investors will have to pay for the stock. 
+
+Numbers 2–4 (above) all converted from debt to equity during our Series A round in March'17.
 
 Anyone is always welcome to ask Corbett any questions they have about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
