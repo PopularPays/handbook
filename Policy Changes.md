@@ -56,8 +56,8 @@ For major changes, he or another team member may also write a blog post about th
 
 ## Adoption
 
-Everyone at Clef needs to sign an [Acknowledgement of Receipt for the Employee Handbook](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), but any change to these documents need to be acknowledged by every employee. Most companies do this on each employee's first day, and then have employees sign another acknowledgement whenever they make a change (because they're rare).
+Everyone at Clef needs to sign an [Acknowledgement of Receipt for the Employee Handbook](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), but any change to these documents need to be acknowledged by every employee. Most companies do this on each employee's first day, and then have employees sign another acknowledgement whenever they make a change (because they're rare).
 
 Because we want these policies to constantly improve, we will merge changes as they appear. To make enforcing policy clear and unambiguous, we will adopt the changes at the beginning of each quarter. We will use milestones on Github to mark these canonical versions of the handbook, and we'll host them all at [getclef.com/handbook](https://getclef.com/handbook). They will be labeled with the dates that they applied, so if there is ever a question or complaint about a policy violation, it will be clear which policies applied on which dates at Clef.
 
-Every employee will need to sign an [Acknowledgement of Receipt of Changes to the Employee Handbook](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt%20of%20Changes.md) each quarter, which may not scale as we grow to more employees.
+Every employee will need to sign an [Acknowledgement of Receipt of Changes to the Employee Handbook](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt%20of%20Changes.md) each quarter, which may not scale as we grow to more employees.

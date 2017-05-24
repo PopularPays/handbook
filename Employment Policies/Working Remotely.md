@@ -32,8 +32,8 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 The majority of policies that support remote work in Clef apply to everyone at Clef, not just remote workers. The primary documents that outline these policies are:
 
-* [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
-* [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
+* [Effective Meetings](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+* [Communication and Transparency](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 
 ### Extended Remote Work
 

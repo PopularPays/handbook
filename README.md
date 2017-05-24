@@ -15,42 +15,42 @@ If these thoughts on how to run a company sound like a place where you want to w
 
 
 ## Introduction
-* [Mission Statement](https://github.com/clef/handbook/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/clef/handbook/blob/master/Clef%20Values.md)
+* [Mission Statement](https://github.com/PopularPays/handbook/blob/master/Mission%20Statement.md)
+* [Clef Values](https://github.com/PopularPays/handbook/blob/master/Clef%20Values.md)
 
 ## Employment Policies
-* [Equal Opportunity Employment](https://github.com/clef/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
-* [At-Will Employment](https://github.com/clef/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Salary and Equity Compensation](https://github.com/clef/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
-* [Code of Conduct in the Community](https://github.com/clef/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
-* [Complaint Policy](https://github.com/clef/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
-* [Drug and Alcohol Policy](https://github.com/clef/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
-* [Employee Privacy](https://github.com/clef/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
-* [Working Remotely](https://github.com/clef/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
+* [Equal Opportunity Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
+* [At-Will Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
+* [Salary and Equity Compensation](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
+* [Code of Conduct in the Community](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
+* [Complaint Policy](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
+* [Drug and Alcohol Policy](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
+* [Employee Privacy](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
+* [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
 
 ## Hiring Documents
-* [Acknowledgement of Receipt](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Clef Offer Letter](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
-* [Employee Proprietary Information and Inventions Agreement](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) (Adapted to Popular Pays) 
-* [Handbook Introduction](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
+* [Acknowledgement of Receipt](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
+* [Clef Offer Letter](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
+* [Employee Proprietary Information and Inventions Agreement](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
+* [Guide to Your Equity](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md) (Adapted to Popular Pays) 
+* [Handbook Introduction](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Clef](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
-* [Direct Reports](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
-* [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
-* [Objectives and Key Results](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
-* [One on Ones](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
-* [Product Manifesto](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
-* [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+* [Welcome to Clef](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
+* [Direct Reports](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
+* [Communication and Transparency](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
+* [Objectives and Key Results](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
+* [One on Ones](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
+* [Product Manifesto](https://github.com/PopularPays/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
+* [Effective Meetings](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
 ## Operations Documents
-* [Sourcing Candidates](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/clef/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
-* [Budgeting](https://github.com/clef/handbook/blob/master/Operations%20Documents/Budgeting.md)
-* [Hack Weeks](https://github.com/clef/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
-* [Onboarding](https://github.com/clef/handbook/blob/master/Operations%20Documents/Onboarding.md)
-* [Sharing Files](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
+* [Sourcing Candidates](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
+* [Interview Process](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
+* [Budgeting](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Budgeting.md)
+* [Hack Weeks](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
+* [Onboarding](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Onboarding.md)
+* [Sharing Files](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
 ## Benefits and Perks
 **Each doc in this section has been adapted to Popular Pays.**

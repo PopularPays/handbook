@@ -1,6 +1,6 @@
 # Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Popular Pays, so in addition to the recognized [Holiday List](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), we offer unlimited time off. 
+Taking time off and recharging is critical to doing your best work at Popular Pays, so in addition to the recognized [Holiday List](https://github.com/PopularPays/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), we offer unlimited time off. 
 
 We try to hire teammates who use that policy responsibly, and we try not to add unnecessary rules, but the downside of unlimited PTO is that some people don't actually use it!
 
