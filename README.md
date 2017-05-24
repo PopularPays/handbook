@@ -15,8 +15,7 @@ If these thoughts on how to run a company sound like a place where you want to w
 
 
 ## Introduction
-* [Mission Statement](https://github.com/PopularPays/handbook/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/PopularPays/handbook/blob/master/Clef%20Values.md)
+* [Mission and Core Values](https://github.com/PopularPays/handbook/blob/master/Mission and Core Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
