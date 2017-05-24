@@ -4,7 +4,7 @@ I acknowledge I have received a copy of the Popular Pays Employee Handbook, have
 
 I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that Popular Pays may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
 
-I understand and agree that my employment with Clef is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  Outside of my Employment Agreement, I acknowledge that this is the entire agreement between me and Popular Pays on the subject of Employment Policies; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO. Where the Employment Agreement and this document misalign, the Employment Agreement will supersede this Handbook.
+I understand and agree that my employment with Popular Pays is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary.  Outside of my Employment Agreement, I acknowledge that this is the entire agreement between me and Popular Pays on the subject of Employment Policies; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO. Where the Employment Agreement and this document misalign, the Employment Agreement will supersede this Handbook.
 
 
 I acknowledge that it is my responsibility to read and become familiar with the contents of the handbook.
@@ -26,13 +26,12 @@ Signature: ________________________
 ***
 
 
-## Contents of the Clef Employee Handbook
+## Contents of the Popular Pays Employee Handbook
 This handbook is hosted online at [github.com/PopularPays/handbook](https://github.com/handbook), along with several other policies. The *Popular Pays Employee Handbook* consists of only the policies listed below.
 
 ### Introduction
 * [Handbook Introduction](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
-* [Mission Statement](https://github.com/PopularPays/handbook/blob/master/Mission%20Statement.md)
-* [Clef Values](https://github.com/PopularPays/handbook/blob/master/Clef%20Values.md)
+* [Mission and Core Values](https://github.com/PopularPays/handbook/blob/master/Mission%20and%20Core%20Values.md)
 
 ### Employment Policies
 * [Equal Opportunity Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
