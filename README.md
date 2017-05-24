@@ -53,7 +53,7 @@ If these thoughts on how to run a company sound like a place where you want to w
 * [Sharing Files](https://github.com/clef/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
 ## Benefits and Perks
-Each doc in this section has been adapted to Popular Pays. 
+**Each doc in this section has been adapted to Popular Pays.**
 
 * [Health Care and Insurance](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md) 
 * [Vacation and Sick Leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md) 
