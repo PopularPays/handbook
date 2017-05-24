@@ -1,6 +1,6 @@
-# Popular Pays Mission and Core Values
+# Mission
 
-## Mission:Create Something Worth Sharing
+## Create Something Worth Sharing
 When we started Pop Pays, before quitting our jobs or raising any money, we sat down at a restaurant to talk about what we wanted Pop Pays to be. We wanted a question we could pass everything through to make sure we were staying true to what we wanted to build– a North Star. We scribbed it on a napkin: “Is it worth sharing?” 
 
 Our mission fuels our product: we want the content that results from collaborations on our platform to be content that’s actually worth sharing. But it doesn’t end there. From the people we hire, to the designs we release, to the things we tweet, to the pitches we make, or the customer service emails we send, they have to be worth sharing. If it’s not worth sharing, it’s not worth doing.
@@ -10,7 +10,7 @@ Our company is built on things that are worth sharing, from our Creators to our 
 The following Core Values point us back to the mission we’re working towards, and help us make the big and small decisions that guide our work, individually and as a team. They’re helpful guideposts to remember as we work together, but our Core Values can evolve as the Pop Pays team grows. 
 
 
-# Our Core Values
+# Core Values
  
 ## Our Mission Is Worth It:
 Joining the Pop Pays team means you believe in our mission, and you share our passion for it. Joining our team means that you’re here not just because startups are a good place to get a jump start on a career or a good investment. No matter how good someone is on paper, if a potential teammate can’t align with our mission, we can’t bring them on at the expense of our culture.
