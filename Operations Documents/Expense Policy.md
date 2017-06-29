@@ -6,12 +6,7 @@
 * Take photos of receipts to attach to your reports in Expensify. Email receipts can be screenshot and attached to reports or forwarded to Coco@popularpays.com
 * Clearly mark what the expense is for in Expensify - e.g. client lunch, Lyft to airport. Bonus points for writing it on the receipt itself as well. This is most important for expenses involving clients or job candidates, which are categorized differently for tax purposes.
 
-## Flights
-* Use sites like Kayak, Expedia, or Google Flights to find flights that are both affordable and convenient - we’ll use Expensify’s “Price to Beat” tool to track if the flights we book generally align with the market rate.
-* If booking on your preferred airline to get points or status, please keep PopPays’ best interest in mind. If this causes your rate to be higher than other reasonable flight options, please check with Coco first, as you may need to pay the difference.
-* If traveling with other teammates, try to fly out/in at similar times so travel expenses to/from airports can be minimized.
-
-### Accommodations and Per Diem Allowance
+## Accommodations and Per Diem Allowance
 Note:
 * Our per diem allowance is based on the General Services Administration’s (GSA) reimbursement guidelines for governmental employees. We’ve included these values for your reference.
 * Travel to and from the airport/meetings and meals involving clients do not count against your per diem, but as always, please keep PopPays’ best interest in mind (sensing a theme here..).
@@ -42,6 +37,11 @@ Note:
 * It may make sense to book a hotel closer to a meeting/airport. If this puts you over the allowed $ amount for accommodations, reach out to Coco before booking and she’ll review on a case by case basis.
 * If traveling to a market not listed above, give Coco a heads up as soon as you think the trip is likely, so she can provide guidance on reimbursable maximums for accommodations and meals and incidentals.
 * If you're having issues finding accommodations under the allowed rate (e.g. due to a conference in town), contact Coco before booking.
+
+## Flights
+* Use sites like Kayak, Expedia, or Google Flights to find flights that are both affordable and convenient - we’ll use Expensify’s “Price to Beat” tool to track if the flights we book generally align with the market rate.
+* If booking on your preferred airline to get points or status, please keep PopPays’ best interest in mind. If this causes your rate to be higher than other reasonable flight options, please check with Coco first, as you may need to pay the difference.
+* If traveling with other teammates, try to fly out/in at similar times so travel expenses to/from airports can be minimized.
  
 ## :(
 * $200 team happy hours
