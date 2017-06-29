@@ -47,8 +47,6 @@ Note:
 * $200 team happy hours
 * Expensive travel to/from airports/meetings (Chicago)
 * Really expensive client dinners - keep PopPays best interest in mind
- 
-#### :(
 * Example: $13 breakfast, $15 lunch, $50 dinner
 * Example: $17 breakfast, $36 lunch, $30 dinner
 * $20 coffee in room
