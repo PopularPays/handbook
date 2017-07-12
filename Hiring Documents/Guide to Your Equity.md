@@ -10,7 +10,7 @@ Owning stock in Popular Pays gives you a stake in our success. As Popular Pays g
 
 ## Stock Options
 
-At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
+At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted, also known as the share's strike price. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
 
 The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
 
