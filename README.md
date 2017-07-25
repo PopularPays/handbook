@@ -19,6 +19,7 @@ If these thoughts on how to run a company sound like a place where you want to w
 * [Equal Opportunity Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
 * [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
+* I-9 Verfication: We verify employment eligibility via the I-9 form for all full-time employees, and require you provide us with the appropriate documentation to do so.
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/PopularPays/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
