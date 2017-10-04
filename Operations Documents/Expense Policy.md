@@ -12,7 +12,7 @@ Note:
 * Travel to and from the airport/meetings and meals involving clients do not count against your per diem, but as always, please keep PopPays’ best interest in mind (sensing a theme here..).
  
 #### Chicago:
-* Hotel: Crowne Plaza West Loop
+* Hotel: Crowne Plaza West Loop; use this link to book for 10% discount: https://goo.gl/2uEj6i
 * If you choose to stay elsewhere, you are eligible to be reimbursed up to the Crowne Plaza rate plus $20
 * Meals and incidentals per diem: $50, assuming lunch in office  (GSA max $74)
 * First/last day of travel: $40 per diem
