@@ -18,7 +18,8 @@ Note:
 * First/last day of travel: $40 per diem
  
 #### NYC:
-* Hotel: Arlo
+* Hotel Option 1: Hotel 50 Bowery; use promo code "bowery on their website or book via this link: https://goo.gl/TH7SA4
+* Hotel Option 2: Arlo, mention Popular Pays corporate rate when booking
 * If staying elsewhere, you are eligible to be reimbursed up to the Arlo rate
 * Meals and incidentals per diem: $70  (GSA max $74)
 * First/last day of travel: $50 per diem
