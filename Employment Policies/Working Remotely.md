@@ -30,19 +30,15 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 ## Policies
 
-The majority of policies that support remote work in Pop Pays apply to everyone at Pop Pays, not just remote workers. The primary documents that outline these policies are:
-
-* [Effective Meetings](https://github.com/PopularPays/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
 ### Extended Remote Work
 
-#### Extended remote work 
 
 ***An extended remote work period includes anything longer than 2 days or any period of time where we work from somewhere irregular.***
 
 If you're planning to work remotely for more than two consecutive days, or you're planning to work remotely from a place that's not your home (i.e. from a partner's home in a different city), you'll need to follow these additional guidelines. Even more than standard remote work, working remotely for an extended period of time is a privilege — it **will** require a large amount of extra work from you to make sure that the team is effective with you working remotely.
 
-Get Approval From your manager
+#### Get Approval From your manager
 
 You need your manager's approval before you can work remotely for an extended period of time. This check-in should happen at least two weeks in advance, before you make any travel arrangements, and you should come prepared with a plan for how you will handle the logistics and extra communication work involved in extended remote work. In order for an employee to work remotely for an extended period of time, they should have demonstrated in the past that they are effective working remotely and upholding their quality of work. If that's not the case, the manager can and should veto the option.
 
