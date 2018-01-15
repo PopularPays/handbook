@@ -28,7 +28,7 @@ Teammates at Popular Pays are free to work from home as they wish (see [Working 
   </tr>
   <tr>
     <td>Christmas Eve</td>
-    <td>December 24 (observed 12/22/17)</td>
+    <td>December 24</td>
   </tr>
   <tr>
     <td>Christmas Day</td>
