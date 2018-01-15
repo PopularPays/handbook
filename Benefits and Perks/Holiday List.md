@@ -1,4 +1,4 @@
-# Observed Holiday List 2017
+# Observed Holiday List 2018
 Teammates at Popular Pays are free to work from home as they wish (see [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)) or take personal days as they see fit, but there are a few days where the office will be closed, we will not be providing lunch service, and the team is expected and encouraged to rest: 
 
 <table>
@@ -16,7 +16,7 @@ Teammates at Popular Pays are free to work from home as they wish (see [Working 
   </tr>
   <tr>
     <td>Independence Day</td>
-    <td>July 4 and the Monday before (July 3rd)</td>
+    <td>July 4</td>
   </tr>
   <tr>
     <td>Labor Day</td>
