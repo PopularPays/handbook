@@ -4,11 +4,11 @@ Teammates at Popular Pays are free to work from home as they wish (see [Working 
 <table>
   <tr>
     <td>New Year’s Eve</td>
-    <td>December 31</td>
+    <td>December 31 (Monday)</td>
   </tr>
 <tr>
     <td>New Year’s Day</td>
-    <td>January 1</td>
+    <td>January 1 (Tuesday)</td>
   </tr>
   <tr>
     <td>Memorial Day</td>
@@ -16,7 +16,7 @@ Teammates at Popular Pays are free to work from home as they wish (see [Working 
   </tr>
   <tr>
     <td>Independence Day</td>
-    <td>July 4</td>
+    <td>July 4 (Wednesday)</td>
   </tr>
   <tr>
     <td>Labor Day</td>
@@ -28,11 +28,15 @@ Teammates at Popular Pays are free to work from home as they wish (see [Working 
   </tr>
   <tr>
     <td>Christmas Eve</td>
-    <td>December 24</td>
+    <td>December 24 (Monday)</td>
   </tr>
   <tr>
     <td>Christmas Day</td>
-    <td>December 25</td>
+    <td>December 25 (Tuesday)</td>
+  </tr>
+    <tr>
+    <td>Day after Christmas</td>
+    <td>December 26 (Wednesday)</td>
   </tr>
 </table>
 
