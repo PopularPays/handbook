@@ -40,13 +40,11 @@ Investor dilution won’t affect the value of your stock, but the valuation that
 
 "Exercising your options" means buying the stock guaranteed by your options. You pay the exercise price that was set when the options were first granted and you get stock certificates back. You can only exercise stock that has vested, but you can do it at any time by filling out a form and paying the cash amount for the stock.
 
-You will usually only want to exercise the stock when you have the opportunity to sell it for a higher price than you are buying it for or when it is expiring.
+You will usually only want to exercise the stock when you have the opportunity to sell it for a higher price than you are buying it for or when it is expiring. You should consult a financial advisor and/or tax professional when deciding what's best for you.
 
-Your stock options expire 10 years after they were issued. You have 1 year to exercise your options after you stop working at Popular Pays, but by law the options only count as ISOs for 90 days after you stop working. Once those 90 days are up, the options count as non-qualified stock options, so they count as income and are subject to income tax when you exercise them.
+Your stock options expire 10 years after they were issued. If you stop working at Popular Pays (either you leave or are let go), you have 3 months to exercise your options, otherwise the options will be returned to the company. The former is mandated by US tax rules, and the latter is an industry norm, as there are potentail tax implications for both the employee and the employer after this 3 month period.
 
-Traditionally, employers have made options expire quickly after employees stop working at the company because the company also has to pay tax on the options when they are non-qualified and considered income. However, this means that many cannot afford to exercise their options and so either a) leave the company and lose the equity they worked hard for or b) stay at the company until they can afford it (this situation is often referred to as "golden handcuffs"). At Popular Pays, we want our employees to keep the equity they earn, and we don't want to keep anyone working here if they're not happy, so we give employees the option to exercise their options up to 1 year after they leave Popular Pays.
-
-However, there is a very significant increase in the tax burden of exercising options 90 days after leaving Popular Pays that we cannot control. This means that while you have more options regarding your equity, you will lose a significant amount of your options' value if you wait. In weighing your different options, you should consult a tax attorney to help decide what path makes the most sense for you.
+In weighing your different options, you should consult a tax professional and/or financial advisor to help decide what path makes the most sense for you.
 
 ## Exercise Prices and 409a Valuations
 
@@ -56,7 +54,7 @@ The lower the exercise price for Common Stock, the more money your options will 
 
 ## Taxes
 
-**Tax law is complex and you should consult a tax attorney who is familiar with startup stock options before making any decisions.**
+**Tax law is complex and you should consult a tax professional who is familiar with startup stock options before making any decisions.**
 
 With Incentive Stock Options (ISOs), you aren’t taxed when you exercise your options, and the profit you make between the exercise price and the price you sell your stock for is taxed as capital gains (much lower than income tax). *However*, because you’re not paying income tax on this gain, this money is counted as a "tax preference" towards the [Alternative Minimum Tax](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Alternative-Minimum-Tax-%28AMT%29-Assistant-for-Individuals) limit.
 
