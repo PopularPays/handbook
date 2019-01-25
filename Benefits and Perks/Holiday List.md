@@ -1,22 +1,22 @@
 # Observed Holiday List 2018
-Teammates at Popular Pays are free to work from home as they wish (see [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)) or take personal days as they see fit, but there are a few days where the office will be closed, we will not be providing lunch service, and the team is expected and encouraged to rest: 
+With manager approval and enough of a heads up for planning sake, teammates at Popular Pays are free to work from home as they wish (see [Working Remotely](https://github.com/PopularPays/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)) or take personal days as they see fit, but there are a few days where the office will be officially closed and the team is expected and encouraged to rest: 
 
 <table>
   <tr>
-    <td>New Year’s Eve</td>
-    <td>December 31 (Monday)</td>
-  </tr>
-<tr>
     <td>New Year’s Day</td>
     <td>January 1 (Tuesday)</td>
+  </tr>
+<tr>
+    <td>Martin Luther King Jr. Day</td>
+    <td>January 21 (Mon)</td>
   </tr>
   <tr>
     <td>Memorial Day</td>
     <td>Last Monday in May</td>
   </tr>
   <tr>
-    <td>Independence Day</td>
-    <td>July 4 (Wednesday)</td>
+    <td>Independence Day and Friday</td>
+    <td>July 4-5 (Thursday & Friday)</td>
   </tr>
   <tr>
     <td>Labor Day</td>
@@ -28,15 +28,20 @@ Teammates at Popular Pays are free to work from home as they wish (see [Working 
   </tr>
   <tr>
     <td>Christmas Eve</td>
-    <td>December 24 (Monday)</td>
+    <td>December 24 (Tuesday)</td>
   </tr>
   <tr>
     <td>Christmas Day</td>
-    <td>December 25 (Tuesday)</td>
+    <td>December 25 (Wednesday)</td>
   </tr>
     <tr>
     <td>Day after Christmas</td>
     <td>December 26 (Wednesday)</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>New Years Eve & Day</td>
+    <td>December 31 & January 1 (Tuesday & Wednesday)</td>
   </tr>
 </table>
 
