@@ -12,7 +12,7 @@ Note:
 * Travel to and from the airport/meetings and meals involving clients do not count against your per diem, but as always, please keep PopPays’ best interest in mind (sensing a theme here..).
  
 #### Chicago:
-* Hotel Option 1: Hampton Inn Chicago Downtown West Loop Hotel (116 N Jefferson); use the corporate code 0002666921 to get the "Good Neighbor Rate"
+* Hotel Option 1: Hampton Inn Chicago Downtown West Loop Hotel (116 N Jefferson); use the corporate code 0002666921 to get the "Good Neighbor Rate." Book here: https://goo.gl/q2fj7t
 * Hotel Option 2: Crowne Plaza West Loop; use this link to book for 10% discount: https://goo.gl/2uEj6i
 * If you choose to stay elsewhere, you are eligible to be reimbursed up to the Hampton Inn rate plus $20
 * Meals and incidentals per diem: $50, assuming lunch in office  (GSA max $74)
