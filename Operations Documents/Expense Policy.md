@@ -5,6 +5,7 @@
 * Plan ahead to find balance between convenience and cost. 
 * We'll need a receipt for each item you'll be expensing. Take photos of receipts to attach to your reports in Expensify. If you have an email receipt, please take a screenshot of it and attach it to your Expensify report.
 * Clearly mark what the expense is for in Expensify - e.g. client lunch, Lyft to airport. Bonus points for writing it on the receipt itself before taking a picutre of it as well. This is most important for expenses involving clients or job candidates, which are categorized differently for tax purposes.
+* Submit your expenses within 60 days of being incurred. Our Accounting team needs to close the books on months/quarters/years, so getting expenses that are older than 60 days can create a good amount of extra work.
 
 ## Accommodations and Per Diem Guidance
 Note:
