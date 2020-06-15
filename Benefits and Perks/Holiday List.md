@@ -4,44 +4,43 @@ With manager approval and enough of a heads up for planning sake, teammates at P
 <table>
   <tr>
     <td>New Year’s Day</td>
-    <td>January 1 (Tuesday)</td>
+    <td>January 1 (Wed)</td>
   </tr>
 <tr>
     <td>Martin Luther King Jr. Day</td>
-    <td>January 21 (Mon)</td>
+    <td>January 20 (Mon)</td>
   </tr>
   <tr>
     <td>Memorial Day</td>
-    <td>Last Monday in May</td>
+    <td>Last Monday in May (25th)</td>
+  </tr>
+  <tr>
+    <td>Juneteenth</td>
+    <td>June 19th (Fri)</td>
   </tr>
   <tr>
     <td>Independence Day and Friday</td>
-    <td>July 4-5 (Thursday & Friday)</td>
+    <td>July 3-4 (Fri & Sat)</td>
   </tr>
   <tr>
     <td>Labor Day</td>
-    <td>First Monday in September</td>
+    <td>First Monday in September (7th)</td>
   </tr>
   <tr>
     <td>Thanksgiving Day and Friday</td>
-    <td>Fourth Thursday in November and following Friday</td>
+    <td>Fourth Thursday in November and following Friday (26th & 27th)</td>
   </tr>
   <tr>
     <td>Christmas Eve</td>
-    <td>December 24 (Tuesday)</td>
+    <td>December 24 (Thurs)</td>
   </tr>
   <tr>
     <td>Christmas Day</td>
-    <td>December 25 (Wednesday)</td>
+    <td>December 25 (Fri)</td>
   </tr>
-    <tr>
-    <td>Day after Christmas</td>
-    <td>December 26 (Wednesday)</td>
-  </tr>
-  </tr>
-    <tr>
+  <tr>
     <td>New Years Eve & Day</td>
-    <td>December 31 & January 1 (Tuesday & Wednesday)</td>
+    <td>December 31 & January 1 (Thurs & Fri)</td>
   </tr>
 </table>
 
