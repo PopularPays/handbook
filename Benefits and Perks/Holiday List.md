@@ -15,7 +15,7 @@ With manager approval and enough of a heads up for planning sake, teammates at P
     <td>Last Monday in May (25th)</td>
   </tr>
   <tr>
-    <td>Juneteenth</td>
+    <td>Juneteenth/Freedom Day</td>
     <td>June 19th (Fri)</td>
   </tr>
   <tr>
