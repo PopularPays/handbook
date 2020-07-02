@@ -10,11 +10,11 @@ Owning stock in Popular Pays gives you a stake in our success. As Popular Pays g
 
 ## Stock Options
 
-At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted, also known as the share's strike price. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
+At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted, also known as the share's strike price. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1.
 
-The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
+The reason we give stock options instead of straight stock is that it allows you to potentially benefit from the upside of the company's growth, without you incurring additional tax liabilities when being granted the stock options. 
 
-If we gave you $10,000 worth of Popular Pays stock today, you would have to pay thousands of dollars in taxes this year. If we give you options for $10,000 worth of stock, you don’t have to pay any taxes until you exercise them (more on exercising later).
+If we gave you $10,000 worth of Popular Pays stock today, you would have to pay thousands of dollars in taxes this year. If we give you options for $10,000 worth of stock, you don’t have to pay any taxes until you take certain actions with your stock options.
 
 ## Vesting
 
@@ -24,15 +24,15 @@ The industry standard right now is 4 years, which is what we employ at Popular P
 
 Vesting happens on a monthly basis (so you vest 1/48 of your options each month), but many vesting schedules also include a cliff.
 
-A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead vests at the end. At most companies, including Popular Pays, this cliff happens at one year. This means that if you leave your job before you’ve worked for a whole year, none of your options will be vested. At the end of that year, you’ll vest the entire year’s worth of equity all at once. This helps keep the ownership of Popular Pays stock to folks who have worked at the company for a meaningful amount of time.
+A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead vests at the end of the cliff period. At most companies, including Popular Pays, this cliff happens at one year. This means that if you leave your job before you’ve worked for a whole year, none of your options will be vested. At the end of that year, you’ll vest the entire year’s worth of equity all at once. This helps keep the ownership of Popular Pays stock to folks who have worked at the company for a meaningful amount of time.
 
 ## Dilution
 
 When Popular Pays raises money from outside investors, it needs to create new stock to sell those investors. You will own the same number of shares as you did before, but there will be more total shares of Popular Pays available, so you will own a smaller percent of the company -- this is called dilution.
 
-If we get a fair valuation for the company, then the value of your options stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if Popular Pays is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth $1m.
+If we get a fair valuation for the company, then the value of your options may stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if Popular Pays is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth $1m. NOTE: this is for demonstration only, and the example math provided does not represent the amount of $$ you would make if selling your shares, as many other factors go into this, including but not limited to your strike price, a potential sale price, taxes, investor terms, etc.
 
-You can also be diluted as we give equity to employees. Popular Pays gives stock option grants to new employees out of an option pool, or a group of options that the Popular Pays board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Popular Pays’s current option pool is intended to cover the next 10-20 teammates we think we'll need to hire before our Series B round, after which we want to create another option pool. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
+You can also be diluted as we give equity to employees. Popular Pays gives stock option grants to new employees out of an option pool, or a group of options that the Popular Pays board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Popular Pays’s current option pool is intended to cover the next 10-20 teammates we think we'll need to hire before our next fundraising round, after which we want to create another option pool. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
 
 Investor dilution won’t affect the value of your stock, but the valuation that we raise money at definitely will. Valuations (how much a company is worth) in private markets are highly unpredictable and subjective -- a share of Popular Pays stock is worth whatever someone will pay for it. Competition between investors, general market performance, perceived future value, and our negotiation skills all play into that valuation and the value of your options will be affected by those forces.
 
@@ -87,4 +87,4 @@ Convertible notes are a popular way for startups to raise money because they let
 
 Bullets 3–5 (above) all converted from debt to equity during our Series A (#6) round in March'17.
 
-Anyone is always welcome to ask Corbett any questions they have about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
+Anyone is always welcome to ask Pete any questions they have about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
